@@ -16,5 +16,12 @@
     "babel-preset-env": "^1.6.0",
     "webpack": "^3.3.0",
     "webpack-closure-compiler": "^2.1.5"
+  },
+  "dependencies": {
+    "fantasy-lenses": "^0.1.1",
+    "gl-matrix": "^2.4.0",
+    "most": "^1.5.1",
+    "ramda": "^0.24.1",
+    "ramda-fantasy": "^0.8.0"
   }
 }
